@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://runsafetonight.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Strategy Pages -->
+  <url>
+    <loc>https://runsafetonight.com/strategy/route-intelligence.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/strategy/route-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/strategy/route-intelligence.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/strategy/route-intelligence.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/strategy/route-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/strategy/route-intelligence.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://runsafetonight.com/strategy/visual-presence.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/strategy/visual-presence.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/strategy/visual-presence.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/strategy/visual-presence.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/strategy/visual-presence.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/strategy/visual-presence.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://runsafetonight.com/strategy/situational-awareness.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/strategy/situational-awareness.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/strategy/situational-awareness.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/strategy/situational-awareness.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/strategy/situational-awareness.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/strategy/situational-awareness.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://runsafetonight.com/strategy/emotional-resilience.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/strategy/emotional-resilience.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/strategy/emotional-resilience.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/strategy/emotional-resilience.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/strategy/emotional-resilience.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/strategy/emotional-resilience.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://runsafetonight.com/strategy/community-safety.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/strategy/community-safety.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/strategy/community-safety.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/strategy/community-safety.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/strategy/community-safety.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/strategy/community-safety.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Environment Pages -->
+  <url>
+    <loc>https://runsafetonight.com/environments/urban-core.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/environments/urban-core.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/environments/urban-core.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/environments/urban-core.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/environments/urban-core.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/environments/urban-core.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://runsafetonight.com/environments/suburban-loop.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/environments/suburban-loop.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/environments/suburban-loop.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/environments/suburban-loop.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/environments/suburban-loop.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/environments/suburban-loop.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://runsafetonight.com/environments/campus.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/environments/campus.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/environments/campus.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/environments/campus.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/environments/campus.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/environments/campus.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://runsafetonight.com/environments/park-trail.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/environments/park-trail.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/environments/park-trail.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/environments/park-trail.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/environments/park-trail.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/environments/park-trail.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://runsafetonight.com/environments/waterfront.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/environments/waterfront.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/environments/waterfront.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/environments/waterfront.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/environments/waterfront.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/environments/waterfront.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://runsafetonight.com/environments/travel.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/environments/travel.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/environments/travel.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/environments/travel.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/environments/travel.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/environments/travel.html"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Guides Database -->
+  <url>
+    <loc>https://runsafetonight.com/guides/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/guides/"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/guides/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/guides/"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Night Route Builder -->
+  <url>
+    <loc>https://runsafetonight.com/route-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/route-builder/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/route-builder/"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://runsafetonight.com/es/route-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://runsafetonight.com/route-builder/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://runsafetonight.com/es/route-builder/"/>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
