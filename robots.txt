@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://runsafetonight.com/sitemap.xml
+
+# RunSafeTonight.com — Own the Night
+# Night running safety, strategy & community
